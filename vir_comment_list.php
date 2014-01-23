@@ -214,7 +214,6 @@ class Vir_comment_list extends MY_Controller
 	 * @param $field  $field为$arr中的field字段 
 	 *
 	 * */
-
 	function _implode_arr($arr,$field)
 	{
 		$data = $narr = array();
